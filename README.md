@@ -6,6 +6,7 @@ This is a simple **Book Search Web App** that allows users to search for books u
 ## Render link 
 See the deployed site here
 https://book-search-project-1.onrender.com
+it may take a minutes to load for first time
 
 ## Features
 - Search for books by title
